@@ -89,16 +89,22 @@ class Node
 	    }
 
 public class Emp2
-    {
-		String name="Neha";
-		String Surname="Kharche";	
-    }
-
-
+{
+	String name="Neha";
+	String Surname="Kharche";	
+}
 
 public class Emp10
 {
 	String name="Neha";
 	String Surname="Kharche";	
-}
+} 
+
+
+public class Emp9
+	    {
+			String name="Neha";
+			String Surname="Kharche";	
+	    }
+
 }
