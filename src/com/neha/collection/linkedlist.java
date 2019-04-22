@@ -93,4 +93,17 @@ public class Emp2
 			String name="Neha";
 			String Surname="Kharche";	
 	    }
+
+
+
+
+
+
+
+
+public class Emp10
+{
+	String name="Neha";
+	String Surname="Kharche";	
+}
 }
