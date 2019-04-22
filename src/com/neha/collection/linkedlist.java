@@ -87,6 +87,7 @@ class Node
 			String name="Neha";
 			String Surname="Kharche";	
 	    }
+
 public class Emp2
 	    {
 			String name="Neha";
