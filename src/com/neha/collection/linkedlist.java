@@ -91,7 +91,6 @@ class Node {
 		String name = "Neha";
 		String Surname = "Kharche";
 	}
-
 	public class Emp9 {
 		String name = "Neha";
 		String Surname = "Kharche";
