@@ -82,5 +82,14 @@ class Node
 		String Surname="Kharche";	
     }
     */
-
+	 class Emp1
+	    {
+			String name="Neha";
+			String Surname="Kharche";	
+	    }
+public class Emp2
+	    {
+			String name="Neha";
+			String Surname="Kharche";	
+	    }
 }
