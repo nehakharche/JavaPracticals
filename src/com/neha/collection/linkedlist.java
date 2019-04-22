@@ -103,7 +103,7 @@ public class Emp11
 	}
 
 	public class Emp2 {
-		String name = "Pallavi";
+		String name = "Aradhya";
 		String Surname = "Deshmukh";
 	}	
 
