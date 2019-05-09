@@ -99,10 +99,10 @@ public class Emp11
 	public class Emp12 {
 		String name = "Neha";
 		String Surname = "Kharche";
+
 	}
-	public class Emp2 {
-		String name = "Aradhya";
-		String Surname = "Deshmukh";
-		String Address="BUL";
-	}	
+
+	
+
+
 }
