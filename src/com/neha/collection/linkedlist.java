@@ -24,6 +24,7 @@ public class linkedlist {
 		l.addnode(n);
 		l.addnode(n1);
 		l.addnode(n2);
+	
 
 		System.out.println("head" + l.head);
 		System.out.println("tail" + l.tail);
@@ -94,19 +95,14 @@ public class Emp11
 	class Emp1 {
 		String name = "Neha";
 		String Surname = "Kharche";
-
 	}
-
 	public class Emp12 {
 		String name = "Neha";
 		String Surname = "Kharche";
 	}
-
-
 	public class Emp2 {
 		String name = "Aradhya";
 		String Surname = "Deshmukh";
+		String Address="BUL";
 	}	
-
-	
 }
