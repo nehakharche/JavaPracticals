@@ -1,0 +1,14 @@
+	//Solution 1:-
+		String str="i like pancakes";
+		String arr[]=str.split(" ");
+		String strNew="";
+		for(String str1:arr)
+		{
+			Character oldchar=str1.charAt(0);
+			Character newchar=Character.toUpperCase(str1.charAt(0));
+			strNew=strNew+str1.replace(oldchar,newchar)+" ";	
+		}
+		System.out.println(strNew);
+		//Solution 2:-
+		String str2=WordUtils.capitalize("i like pancakes"); 
+		System.out.println(str2);
